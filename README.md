@@ -1,2 +1,2 @@
-# -spring-boot-jpa-demo
+# spring-boot-jpa-demo
 jpa的demo
